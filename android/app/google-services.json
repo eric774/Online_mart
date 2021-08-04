@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "498301047286",
+    "project_id": "onlinemart-d9c21",
+    "storage_bucket": "onlinemart-d9c21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498301047286:android:d4873603ccbc7d93cc37d7",
+        "android_client_info": {
+          "package_name": "com.example.online_mart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498301047286-oqmkulmkn8n99h3r5g45u7dss5lkpv10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFWTpni4o9IfMo_yVYEiXLliy0bBxkCI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498301047286-oqmkulmkn8n99h3r5g45u7dss5lkpv10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
